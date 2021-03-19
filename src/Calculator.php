@@ -1,6 +1,6 @@
 <?php
 
-include "ComplexNumber.php";
+namespace App;
 
 class Calculator
 {
